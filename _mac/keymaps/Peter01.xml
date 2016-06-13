@@ -1,0 +1,44 @@
+<keymap version="1" name="Peter01" parent="Mac OS X">
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id=":cursive.repl.actions/load-file">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id=":cursive.repl.actions/switch-namespace">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="IpnbCodeCellAction" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Vcs.Push" />
+</keymap>
