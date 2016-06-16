@@ -5,6 +5,7 @@
       <mapping pattern="splice" type="PLAIN_TEXT" />
       <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="bucket-name" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
