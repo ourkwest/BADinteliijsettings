@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="splice" type="PLAIN_TEXT" />
       <mapping pattern=".RData" type="PLAIN_TEXT" />
       <mapping pattern="bucket-name" type="PLAIN_TEXT" />
     </extensionMap>
