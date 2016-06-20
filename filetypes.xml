@@ -1,11 +1,48 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="splice" type="PLAIN_TEXT" />
-      <mapping pattern=".RData" type="PLAIN_TEXT" />
-      <mapping pattern="bucket-name" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="A" type="PLAIN_TEXT" />
+      <mapping pattern="delete_me" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="FlissCredentials" type="PLAIN_TEXT" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern="test-file-2" type="PLAIN_TEXT" />
+      <mapping pattern="backfill" type="PLAIN_TEXT" />
+      <mapping pattern="trends" type="PLAIN_TEXT" />
+      <mapping pattern="temp_channel_list" type="PLAIN_TEXT" />
+      <mapping pattern="source_me" type="PLAIN_TEXT" />
+      <mapping pattern="B" type="PLAIN_TEXT" />
+      <mapping pattern="tokenfile" type="PLAIN_TEXT" />
+      <mapping pattern="UnlockLevelsTest.scala" type="PLAIN_TEXT" />
+      <mapping pattern="tempfile" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".lein-classpath" type="PLAIN_TEXT" />
+      <mapping pattern="inc" type="PLAIN_TEXT" />
+      <mapping pattern="test-file" type="PLAIN_TEXT" />
+      <mapping pattern="uploader" type="PLAIN_TEXT" />
+      <mapping pattern="filedump" type="PLAIN_TEXT" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping pattern="EC2AttachEBSVolume.json" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="lightning" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="dec" type="PLAIN_TEXT" />
+      <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="marker" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <mapping ext="mobileprovision" type="PLAIN_TEXT" />
+      <mapping ext="filters" type="PLAIN_TEXT" />
+      <mapping ext="keychain" type="PLAIN_TEXT" />
+      <mapping ext="instructions" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
+      <mapping pattern="LuChallengeJob" type="Python" />
+      <mapping pattern="dp-pycogen" type="Python" />
     </extensionMap>
   </component>
 </application>

@@ -1,5 +1,32 @@
 <application>
   <component name="EditorSettings">
     <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern=";!.*">
+      <option name="FOREGROUND" value="ffc100" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="ffc100" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="false" pattern=";\?.*">
+      <option name="FOREGROUND" value="bcff00" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="bcff00" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern=";;.*">
+      <option name="BACKGROUND" value="0" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>

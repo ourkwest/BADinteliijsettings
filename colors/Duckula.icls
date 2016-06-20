@@ -6,11 +6,16 @@
     <option name="CARET_COLOR" value="ffffff" />
   </colors>
   <attributes>
+    <option name="Head symbol">
+      <value>
+        <option name="FOREGROUND" value="ccad47" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="888888" />
+        <option name="BACKGROUND" value="444444" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="666666" />
+        <option name="EFFECT_COLOR" value="aaaaaa" />
       </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
