@@ -16,6 +16,7 @@
       <mapping pattern="tokenfile" type="PLAIN_TEXT" />
       <mapping pattern="UnlockLevelsTest.scala" type="PLAIN_TEXT" />
       <mapping pattern="tempfile" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern=".lein-classpath" type="PLAIN_TEXT" />
       <mapping pattern="inc" type="PLAIN_TEXT" />
