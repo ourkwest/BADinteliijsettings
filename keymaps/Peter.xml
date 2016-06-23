@@ -1,7 +1,4 @@
 <keymap version="1" name="Peter" parent="Mac OS X">
-  <action id=":cursive.actions.paredit/backward">
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
   <action id=":cursive.actions.paredit/barf-backwards">
     <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
@@ -19,9 +16,6 @@
   </action>
   <action id=":cursive.actions.paredit/copy-as-kill">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id=":cursive.actions.paredit/forward">
-    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -86,19 +80,7 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
 </keymap>
