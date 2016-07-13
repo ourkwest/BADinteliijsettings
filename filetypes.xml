@@ -31,17 +31,18 @@
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
-      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping ext="keychain" type="PLAIN_TEXT" />
       <mapping ext="instructions" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="Specification" />
       <removed_mapping ext="a" type="UNKNOWN" />
       <mapping pattern="LuChallengeJob" type="Python" />
       <mapping pattern="dp-pycogen" type="Python" />
