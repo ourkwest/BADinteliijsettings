@@ -80,6 +80,9 @@
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
+  <action id="Cursive.Repl.Command.(reset)">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
