@@ -23,6 +23,7 @@
       <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="uploader" type="PLAIN_TEXT" />
       <mapping pattern="filedump" type="PLAIN_TEXT" />
+      <mapping pattern="with-vars" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="EC2AttachEBSVolume.json" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
