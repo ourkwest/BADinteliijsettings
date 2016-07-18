@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="quick clean" description="delete the target directory" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Bash Clean" description="Delete the target directory." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="rm" />
       <option name="PARAMETERS" value="-rf target" />
