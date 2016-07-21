@@ -6,6 +6,7 @@
       <mapping pattern="delete_me" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="FlissCredentials" type="PLAIN_TEXT" />
+      <mapping pattern="unit-tests" type="PLAIN_TEXT" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="test-file-2" type="PLAIN_TEXT" />
       <mapping pattern="backfill" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping pattern="tempfile" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="acceptance-tests" type="PLAIN_TEXT" />
       <mapping pattern=".lein-classpath" type="PLAIN_TEXT" />
       <mapping pattern="inc" type="PLAIN_TEXT" />
       <mapping pattern="test-file" type="PLAIN_TEXT" />
@@ -30,21 +32,22 @@
       <mapping pattern="lightning" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="lint" type="PLAIN_TEXT" />
       <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="marker" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="filters" type="PLAIN_TEXT" />
       <mapping ext="keychain" type="PLAIN_TEXT" />
       <mapping ext="instructions" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <removed_mapping ext="a" type="UNKNOWN" />
-      <mapping pattern="LuChallengeJob" type="Python" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping pattern="dp-pycogen" type="Python" />
+      <mapping pattern="LuChallengeJob" type="Python" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
