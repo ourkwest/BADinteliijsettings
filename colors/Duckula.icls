@@ -79,5 +79,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="d1243b" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffbc00" />
+      </value>
+    </option>
   </attributes>
 </scheme>
