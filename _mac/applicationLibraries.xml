@@ -1,5 +1,59 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.6.9 virtualenv at ~/code/venv_data_eng interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6" />
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/-1124641909" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6" />
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/code/venv_data_eng/lib/python2.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.1/python_stubs/-1124641909" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.10 virtualenv at ~/sb/aws-python-scripts/intellij-venv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/1535792743" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7/lib-dynload" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/1535792743" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 3.5.1 virtualenv at ~/environments/python3venv interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/environments/python3venv/lib/python3.5" />
@@ -20,6 +74,29 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
         <root url="file://$USER_HOME$/environments/python3venv/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.1/python_stubs/-18333014" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.5.2 virtualenv at ~/sb/aws-python-scripts/intellij-venv-35 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-678102256" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/lib-dynload" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+        <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/sb/aws-python-scripts/intellij-venv-35/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-678102256" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
