@@ -33,6 +33,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="PLAIN_TEXT" />
+      <mapping pattern="export-shared-vars" type="PLAIN_TEXT" />
       <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
