@@ -1,5 +1,6 @@
 <code_scheme name="Default (1)">
   <ClojureCodeStyleSettings>{
+  :sbsl.support.http/json-response 1
   :sbsl.support.logging/process 1
 }</ClojureCodeStyleSettings>
 </code_scheme>
