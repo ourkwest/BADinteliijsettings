@@ -2,5 +2,6 @@
   <ClojureCodeStyleSettings>{
   :sbsl.support.http/json-response 1
   :sbsl.support.http/response 1
+  :sbsl.support.logging/timing 1
 }</ClojureCodeStyleSettings>
 </code_scheme>
