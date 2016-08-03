@@ -86,6 +86,9 @@
   <action id="Cursive.Repl.Command.(reset)">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Cursive.Repl.Command.Switch to user namespace">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>

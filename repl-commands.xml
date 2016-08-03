@@ -1,5 +1,6 @@
 <application>
   <component name="ReplCommandManager">
-    <repl-command name="(reset)" executionType="EXPRESSION" commandText="(reset)" executeBefore="SYNC_ALL" executionNs="EXPLICIT_NS" inNamespace="user" />
+    <repl-command name="(reset)" executionType="EXPRESSION" commandText="(reset)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
+    <repl-command name="Switch to user namespace" executionType="EXPRESSION" commandText="(in-ns 'user)" executeBefore="SYNC_ALL" executionNs="REPL_CURRENT" inNamespace="" />
   </component>
 </application>

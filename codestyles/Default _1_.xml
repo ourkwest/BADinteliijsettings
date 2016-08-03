@@ -1,7 +1,6 @@
 <code_scheme name="Default (1)">
   <ClojureCodeStyleSettings>{
   :sbsl.support.http/json-response 1
-  :sbsl.support.http/sql-batch-response 4
-  :sbsl.support.logging/process 1
+  :sbsl.support.http/response 1
 }</ClojureCodeStyleSettings>
 </code_scheme>
