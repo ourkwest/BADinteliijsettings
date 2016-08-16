@@ -16,26 +16,28 @@
       <mapping pattern="B" type="PLAIN_TEXT" />
       <mapping pattern="tokenfile" type="PLAIN_TEXT" />
       <mapping pattern="UnlockLevelsTest.scala" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="tempfile" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="acceptance-tests" type="PLAIN_TEXT" />
-      <mapping pattern="start-api-server" type="PLAIN_TEXT" />
       <mapping pattern=".lein-classpath" type="PLAIN_TEXT" />
       <mapping pattern="inc" type="PLAIN_TEXT" />
       <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="uploader" type="PLAIN_TEXT" />
       <mapping pattern="filedump" type="PLAIN_TEXT" />
-      <mapping pattern="export-ingest-vars" type="PLAIN_TEXT" />
+      <mapping pattern="start-api-server" type="PLAIN_TEXT" />
       <mapping pattern="with-vars" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="EC2AttachEBSVolume.json" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="export-ingest-vars" type="PLAIN_TEXT" />
       <mapping pattern="lightning" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="export-api-vars" type="PLAIN_TEXT" />
       <mapping pattern="start-ingest-server" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="sbsl-devs-read" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="PLAIN_TEXT" />
       <mapping pattern="export-shared-vars" type="PLAIN_TEXT" />
       <mapping pattern="dec" type="PLAIN_TEXT" />
