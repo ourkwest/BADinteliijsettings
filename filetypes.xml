@@ -25,6 +25,7 @@
       <mapping pattern="inc" type="PLAIN_TEXT" />
       <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="uploader" type="PLAIN_TEXT" />
+      <mapping pattern="Module1" type="PLAIN_TEXT" />
       <mapping pattern="filedump" type="PLAIN_TEXT" />
       <mapping pattern="start-api-server" type="PLAIN_TEXT" />
       <mapping pattern="with-vars" type="PLAIN_TEXT" />
