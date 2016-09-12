@@ -1,5 +1,6 @@
 <code_scheme name="Default (2)">
   <ClojureCodeStyleSettings>{
+  :clojure.core/remove 1
   :sbsl.support.logging/process 1
 }</ClojureCodeStyleSettings>
 </code_scheme>
