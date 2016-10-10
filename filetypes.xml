@@ -45,6 +45,7 @@
       <mapping pattern="backfill" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="B_lineItemPrice_1" type="PLAIN_TEXT" />
+      <mapping pattern="export-dev-vars" type="PLAIN_TEXT" />
       <mapping pattern="tempfile" type="PLAIN_TEXT" />
       <mapping pattern="EC2AttachEBSVolume.json" type="PLAIN_TEXT" />
       <mapping pattern="tokenfile" type="PLAIN_TEXT" />
