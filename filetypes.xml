@@ -8,18 +8,20 @@
       <mapping pattern="A_SheetSetUp" type="PLAIN_TEXT" />
       <mapping pattern="with-vars" type="PLAIN_TEXT" />
       <mapping pattern="uploader" type="PLAIN_TEXT" />
-      <mapping pattern="acceptance-tests" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Module1" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="FlissCredentials" type="PLAIN_TEXT" />
       <mapping pattern="trends" type="PLAIN_TEXT" />
       <mapping pattern="start-ingest-server" type="PLAIN_TEXT" />
+      <mapping pattern="acceptance-tests" type="PLAIN_TEXT" />
+      <mapping pattern="lightning" type="PLAIN_TEXT" />
       <mapping pattern="UnlockLevelsTest.scala" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sbsl-devs-read" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
-      <mapping pattern="lightning" type="PLAIN_TEXT" />
       <mapping pattern="filedump" type="PLAIN_TEXT" />
       <mapping pattern="test-file-2" type="PLAIN_TEXT" />
       <mapping pattern="export-api-vars" type="PLAIN_TEXT" />
@@ -38,7 +40,6 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="PLAIN_TEXT" />
       <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
-      <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="UserForm1" type="PLAIN_TEXT" />
       <mapping pattern="backfill" type="PLAIN_TEXT" />
@@ -58,8 +59,8 @@
       <mapping ext="instructions" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping pattern="dp-pycogen" type="Python" />
       <mapping pattern="LuChallengeJob" type="Python" />
+      <mapping pattern="dp-pycogen" type="Python" />
       <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
