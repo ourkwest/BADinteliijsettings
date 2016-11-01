@@ -2,6 +2,7 @@
   <ClojureCodeStyleSettings>{
   :clojure.core/remove 1
   :clojure.spec/fdef 1
+  :manifold.deferred/on-realized 1
   :sbsl.support.logging/process 1
   :sbsl.support.sql/execute 2
   :sbsl.support.sql/execute-batch 3
