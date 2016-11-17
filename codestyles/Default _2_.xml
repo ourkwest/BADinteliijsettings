@@ -9,5 +9,6 @@
   :sbsl.support.sql/transact! 1
   :sbsl.support.sql/tx-execute! 1
   :sbsl.support.sql/tx-execute-batch! 2
+  :sbsl.support.yadaify/handle 1
 }</ClojureCodeStyleSettings>
 </code_scheme>
