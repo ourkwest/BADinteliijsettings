@@ -11,7 +11,6 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Module1" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="test-file" type="PLAIN_TEXT" />
       <mapping pattern="FlissCredentials" type="PLAIN_TEXT" />
       <mapping pattern="trends" type="PLAIN_TEXT" />
@@ -27,6 +26,7 @@
       <mapping pattern="export-api-vars" type="PLAIN_TEXT" />
       <mapping pattern="export-ingest-vars" type="PLAIN_TEXT" />
       <mapping pattern="start-api-server" type="PLAIN_TEXT" />
+      <mapping pattern="docker_config" type="PLAIN_TEXT" />
       <mapping pattern="source_me" type="PLAIN_TEXT" />
       <mapping pattern="temp_channel_list" type="PLAIN_TEXT" />
       <mapping pattern=".lein-classpath" type="PLAIN_TEXT" />
@@ -40,6 +40,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="lint" type="PLAIN_TEXT" />
       <mapping pattern="temp_user_list" type="PLAIN_TEXT" />
+      <mapping pattern="dec" type="PLAIN_TEXT" />
       <mapping pattern="Notes" type="PLAIN_TEXT" />
       <mapping pattern="UserForm1" type="PLAIN_TEXT" />
       <mapping pattern="backfill" type="PLAIN_TEXT" />
